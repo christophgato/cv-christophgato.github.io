@@ -1,3 +1,3 @@
 # Curriculum para presentarlo
 
-Aquí se presenta el curriculum
+Este repositorio es para mostrar el curriículum actualizado
